@@ -1,0 +1,8 @@
+{
+  "name": "TealCab",
+  "description": "A modern, aesthetic taxi booking application connecting drivers and passengers with AI-powered trip estimation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
